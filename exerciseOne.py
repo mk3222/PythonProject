@@ -1,7 +1,7 @@
-# Calculate the area of rectangle
+# Calculate the area of a rectangle
 
-
-length = int(input("Enter the length: "))
+length = float(input("Enter the length: "))
 width = float(input("Enter the width: "))
+
 area = length * width
-print(f"The area of rectangle is {area}.")
+print(f"The area of the rectangle is {round(area, 2)} square units.")
