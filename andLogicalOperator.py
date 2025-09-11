@@ -1,4 +1,4 @@
-# and = both condition must be True
+### and = both condition must be True
 
 
 temp = 20
